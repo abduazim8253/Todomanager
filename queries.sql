@@ -1,0 +1,1 @@
+-- To-Do app database structure
